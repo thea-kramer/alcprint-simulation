@@ -1,8 +1,21 @@
 # alcprint_simulation
 A data pipeline for analysing, simulating and detecting addiction craving situations. 
 
-## Usage
+#### Keywords: alcohol, alcoholism, Reddit, artificial intelligence, AI, craving, trigger, NLP, LDA, data analysis
+
 The repository contains 6 notebooks that perform data analysis, detection, simulation and prediction on alcohol cravings from the Reddit forum "stopdrinking" (https://www.reddit.com/r/stopdrinking/). It also contains a java script that reconstructs survey data from the following paper: https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00074/full 
+
+## General Information
+
+**Contact:**      Thea Kramer, thea.kramer<at>gmail.com
+
+**Date range of data collection:**  April 2017 - April 2022, collected in April 2022
+
+**Language of data:** EN
+
+**Data sources:** Reddit API () and own labeling by three labellers
+
+## Data structure and usage
 
 The 6 notebooks should be executed in order and contain the following steps:
 
